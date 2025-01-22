@@ -1,0 +1,15 @@
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\bin\Debug\net8.0\Imperiya.DataAccess.deps.json
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\bin\Debug\net8.0\Imperiya.DataAccess.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\bin\Debug\net8.0\Imperiya.DataAccess.pdb
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\obj\Debug\net8.0\Imperiya.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\obj\Debug\net8.0\Imperiya.DataAccess.AssemblyInfoInputs.cache
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\obj\Debug\net8.0\Imperiya.DataAccess.AssemblyInfo.cs
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\obj\Debug\net8.0\Imperiya.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\obj\Debug\net8.0\Imperiya.DataAccess.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\obj\Debug\net8.0\refint\Imperiya.DataAccess.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\obj\Debug\net8.0\Imperiya.DataAccess.pdb
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\obj\Debug\net8.0\ref\Imperiya.DataAccess.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\bin\Debug\net8.0\Imperiya.EntityLayer.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\bin\Debug\net8.0\Imperiya.EntityLayer.pdb
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\obj\Debug\net8.0\Imperiya.DataAccess.csproj.AssemblyReference.cache
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.DataAccess\obj\Debug\net8.0\Imperiya.3CC9B5D5.Up2Date

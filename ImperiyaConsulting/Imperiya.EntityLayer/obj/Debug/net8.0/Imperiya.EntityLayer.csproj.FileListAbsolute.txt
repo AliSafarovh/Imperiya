@@ -1,0 +1,14 @@
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.EntityLayer\bin\Debug\net8.0\Imperiya.EntityLayer.deps.json
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.EntityLayer\bin\Debug\net8.0\Imperiya.EntityLayer.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.EntityLayer\bin\Debug\net8.0\Imperiya.EntityLayer.pdb
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.EntityLayer\obj\Debug\net8.0\Imperiya.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.EntityLayer\obj\Debug\net8.0\Imperiya.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.EntityLayer\obj\Debug\net8.0\Imperiya.EntityLayer.AssemblyInfo.cs
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.EntityLayer\obj\Debug\net8.0\Imperiya.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.EntityLayer\obj\Debug\net8.0\Imperiya.EntityLayer.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.EntityLayer\obj\Debug\net8.0\refint\Imperiya.EntityLayer.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.EntityLayer\obj\Debug\net8.0\Imperiya.EntityLayer.pdb
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.EntityLayer\obj\Debug\net8.0\ref\Imperiya.EntityLayer.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.EntityLayer\bin\Debug\net8.0\Imperiya.EntityLayer.runtimeconfig.json
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.EntityLayer\obj\Debug\net8.0\Imperiya.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.EntityLayer\obj\Debug\net8.0\Imperiya.EntityLayer.genruntimeconfig.cache

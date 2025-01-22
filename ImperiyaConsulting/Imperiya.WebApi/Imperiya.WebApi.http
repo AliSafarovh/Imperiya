@@ -1,0 +1,6 @@
+@Imperiya.WebApi_HostAddress = http://localhost:5078
+
+GET {{Imperiya.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

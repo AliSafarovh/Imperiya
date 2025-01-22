@@ -1,0 +1,72 @@
+[
+  {
+    "ContainingType": "Imperiya.WebApi.Controllers.AnimatesController",
+    "Method": "GetList",
+    "RelativePath": "api/Animates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Imperiya.WebApi.Controllers.CommentsController",
+    "Method": "GetList",
+    "RelativePath": "api/Comments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Imperiya.WebApi.Controllers.HeadersController",
+    "Method": "GetList",
+    "RelativePath": "api/Headers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Imperiya.WebApi.Controllers.PartnersController",
+    "Method": "GetList",
+    "RelativePath": "api/Partners",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Imperiya.WebApi.Controllers.PicsesController",
+    "Method": "GetList",
+    "RelativePath": "api/Picses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Imperiya.WebApi.Controllers.PublicitiesController",
+    "Method": "GetList",
+    "RelativePath": "api/Publicities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Imperiya.WebApi.Controllers.ServiceCardsController",
+    "Method": "GetList",
+    "RelativePath": "api/ServiceCards",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

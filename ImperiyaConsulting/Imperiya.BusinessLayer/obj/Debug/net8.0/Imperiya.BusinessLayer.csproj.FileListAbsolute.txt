@@ -1,0 +1,17 @@
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\bin\Debug\net8.0\Imperiya.BusinessLayer.deps.json
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\bin\Debug\net8.0\Imperiya.BusinessLayer.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\bin\Debug\net8.0\Imperiya.BusinessLayer.pdb
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\obj\Debug\net8.0\Imperiya.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\obj\Debug\net8.0\Imperiya.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\obj\Debug\net8.0\Imperiya.BusinessLayer.AssemblyInfo.cs
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\obj\Debug\net8.0\Imperiya.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\obj\Debug\net8.0\Imperiya.BusinessLayer.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\obj\Debug\net8.0\refint\Imperiya.BusinessLayer.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\obj\Debug\net8.0\Imperiya.BusinessLayer.pdb
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\obj\Debug\net8.0\ref\Imperiya.BusinessLayer.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\obj\Debug\net8.0\Imperiya.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\bin\Debug\net8.0\Imperiya.EntityLayer.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\bin\Debug\net8.0\Imperiya.EntityLayer.pdb
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\obj\Debug\net8.0\Imperiya.D64F318A.Up2Date
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\bin\Debug\net8.0\Imperiya.DataAccess.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\bin\Debug\net8.0\Imperiya.DataAccess.pdb
