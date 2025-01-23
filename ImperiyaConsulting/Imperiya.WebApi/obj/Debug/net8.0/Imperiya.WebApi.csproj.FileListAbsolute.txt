@@ -151,3 +151,4 @@ C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.WebApi\bin\Debug\net
 C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.WebApi\obj\Debug\net8.0\Imperiya.WebApi.sourcelink.json

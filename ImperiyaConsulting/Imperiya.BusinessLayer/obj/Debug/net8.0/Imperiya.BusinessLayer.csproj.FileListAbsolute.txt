@@ -15,3 +15,4 @@ C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\bin\De
 C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\obj\Debug\net8.0\Imperiya.D64F318A.Up2Date
 C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\bin\Debug\net8.0\Imperiya.DataAccess.dll
 C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\bin\Debug\net8.0\Imperiya.DataAccess.pdb
+C:\Users\samun\Desktop\Imperiya\ImperiyaConsulting\Imperiya.BusinessLayer\obj\Debug\net8.0\Imperiya.BusinessLayer.sourcelink.json
